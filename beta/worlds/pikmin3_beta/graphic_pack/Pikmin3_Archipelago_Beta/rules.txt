@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 000500001012BE00
+name = "Archipelago Beta"
+path = "Pikmin 3/Mods/Archipelago Beta"
+description = "BETA de l'integration Archipelago de Pikmin 3 (EUR v1). Ne pas activer en meme temps que le pack Archipelago (version finale). Sans client connecte, le jeu reste normal."
+version = 7

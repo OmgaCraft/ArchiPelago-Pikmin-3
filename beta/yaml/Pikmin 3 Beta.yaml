@@ -1,0 +1,68 @@
+# Fichier joueur Pikmin 3 BÊTA (Wii U / Cemu) pour Archipelago.
+# Copie-le dans C:\ProgramData\Archipelago\Players, change « name », puis génère.
+
+# Ton nom de slot (16 caractères max), différent des autres fichiers de la partie.
+name: JoueurP3Beta
+
+description: Pikmin 3 Beta EUR v1 (checks et items à valider)
+
+game: Pikmin 3 Beta
+requires:
+  version: 0.6.7
+  game:
+    Pikmin 3 Beta: 0.1.0
+
+Pikmin 3 Beta:
+  # Objectif : « fruits » (presser fruits_required fruits) ou « population ».
+  goal: fruits
+  fruits_required: 40
+  population_required: 300
+
+  # Paliers de population (Oignons + terrain) : un check tous les 50 Pikmin, jusqu'à 250.
+  population_milestone_step: 50
+  population_milestone_max: 250
+
+  # Oignons (bleu et ailé : bits trouvés en les forçant) et objets importants.
+  onion_checks: true
+  key_item_checks: true
+
+  # --- Checks de la bêta ---
+  # Notes du GamePad, comptées par ensemble (0 = aucun check pour cet ensemble).
+  note_checks: true
+  notes_a_count: 10      # ensemble A : Pikmin-ology / tutoriels lus
+  notes_b_count: 3       # ensemble B : tutoriels
+  notes_c_count: 10      # ensemble C : documents ramassés / scènes vues
+  olimar_note_count: 2   # ensemble D : notes d'Olimar
+  # Atteindre le jour 2, 3… jusqu'à day_check_max.
+  day_checks: true
+  day_check_max: 20
+  # Nouvelles sortes de fruits (30 au total).
+  fruit_kind_checks: true
+  fruit_kind_max: 20
+  # Étapes d'histoire (Data Glutton, sauvetage de Charlie…).
+  story_event_checks: true
+  story_event_count: 2
+
+  # Limite de Pikmin sur le terrain : 30 au départ, +10 par « Progressive Pikmin Limit ».
+  progressive_pikmin_limit: true
+  pikmin_limit_start: 30
+  pikmin_limit_step: 10
+
+  # Jus : safe = jamais moins de 2 bouteilles, no_consumption = bouteille de la nuit rendue, normal = aucune aide.
+  juice_mode: safe
+
+  trap_percentage: 0
+
+  # Poids des objets de remplissage (Pikmin bleus/ailés : donnés en rouges tant que l'Oignon n'est pas trouvé).
+  filler_weights:
+    Juice Drop: 30
+    Extra Red Pikmin: 15
+    Extra Yellow Pikmin: 10
+    Extra Rock Pikmin: 10
+    Extra Blue Pikmin: 5
+    Extra Winged Pikmin: 5
+    Ultra-Spicy Spray: 15
+    Ultra-Spicy Berry: 10
+
+  progression_balancing: 50
+  accessibility: full

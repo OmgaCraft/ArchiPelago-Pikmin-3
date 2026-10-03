@@ -1,0 +1,14 @@
+# Test Phase 0 (option A), 2e version : abaisser la limite de Pikmin sur le terrain de 100 a 30.
+# Analyse : docs/phase0/findings.md, section "Limite de Pikmin".
+# 1re version : seuls 0x02853BE8 et 0x02CD19A0 etaient patches -> sans effet sur le menu de l'Oignon.
+# La vraie verification est "terrain plein ?" (0x02795378), appelee 9 fois par le code de l'Oignon :
+#  - 0x027953A4 : "cmpwi r3, 100" (terrain + pousses >= 100 ?), hors mode Bingo
+# Attendu : impossible d'avoir plus de 30 Pikmin (terrain + pousses) ; au-dela, les graines restent dans l'Oignon.
+# (Fichier volontairement en ASCII pour l'analyseur de Cemu.)
+
+[P3AP_PikminLimit30_EUR_v1]
+moduleMatches = 0x838BE11A
+
+0x027953A4 = cmpwi r3, 30   # terrain plein ? (100 -> 30) : point principal
+0x02853BE8 = cmpwi r3, 30   # variante "terrain seul" (100 -> 30)
+0x02CD19A0 = li r30, 30     # places disponibles (100 -> 30)

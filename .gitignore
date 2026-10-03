@@ -1,0 +1,8 @@
+# Sauvegardes du jeu et copies de la mémoire du jeu : données personnelles, jamais publiées
+backups/
+tools/.probe_state/
+*.bin
+
+# Python
+__pycache__/
+*.pyc

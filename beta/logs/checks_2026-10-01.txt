@@ -1,0 +1,1551 @@
+2026-10-01 08:19:39 En attente de Cemu…
+2026-10-01 18:52:55 Cemu connecté (pid 32516).
+2026-10-01 18:52:55 • Partie lue : jour 1, 0 fruits pressés (0 sortes), population 0, Oignons aucun, objets aucun, notes : Pikmin-ology 0, Tutoriel 0, Document / scène 0, Olimar 0, étapes d'histoire 0
+2026-10-01 18:53:06 ✔ Jour 2 atteint  → check « Reach Day 2 »
+2026-10-01 18:53:06 ✔ Jour 3 atteint  → check « Reach Day 3 »
+2026-10-01 18:53:06 ✔ Jour 4 atteint  → check « Reach Day 4 »
+2026-10-01 18:53:06 ✔ Jour 5 atteint  → check « Reach Day 5 »
+2026-10-01 18:53:06 ✔ Jour 6 atteint  → check « Reach Day 6 »
+2026-10-01 18:53:06 ✔ Jour 7 atteint  → check « Reach Day 7 »
+2026-10-01 18:53:06 ✔ Jour 8 atteint  → check « Reach Day 8 »
+2026-10-01 18:53:06 ✔ Jour 9 atteint  → check « Reach Day 9 »
+2026-10-01 18:53:06 ✔ Jour 10 atteint  → check « Reach Day 10 »
+2026-10-01 18:53:06 ✔ Jour 11 atteint  → check « Reach Day 11 »
+2026-10-01 18:53:06 ✔ Jour 12 atteint  → check « Reach Day 12 »
+2026-10-01 18:53:06 ✔ Jour 13 atteint  → check « Reach Day 13 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°1)  → check « Fruit 1 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°2)  → check « Fruit 2 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°3)  → check « Fruit 3 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°4)  → check « Fruit 4 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°5)  → check « Fruit 5 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°6)  → check « Fruit 6 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°7)  → check « Fruit 7 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°8)  → check « Fruit 8 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°9)  → check « Fruit 9 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°10)  → check « Fruit 10 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°11)  → check « Fruit 11 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°12)  → check « Fruit 12 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°13)  → check « Fruit 13 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°14)  → check « Fruit 14 »
+2026-10-01 18:53:06 ✔ Fruit pressé (n°15)  → check « Fruit 15 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (1e sorte)  → check « Fruit Kind 1 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (2e sorte)  → check « Fruit Kind 2 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (3e sorte)  → check « Fruit Kind 3 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (4e sorte)  → check « Fruit Kind 4 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (5e sorte)  → check « Fruit Kind 5 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (6e sorte)  → check « Fruit Kind 6 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (7e sorte)  → check « Fruit Kind 7 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (8e sorte)  → check « Fruit Kind 8 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (9e sorte)  → check « Fruit Kind 9 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (10e sorte)  → check « Fruit Kind 10 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (11e sorte)  → check « Fruit Kind 11 »
+2026-10-01 18:53:06 ✔ Nouvelle sorte de fruit enregistrée (12e sorte)  → check « Fruit Kind 12 »
+2026-10-01 18:53:06 • Oignon rouge découvert
+2026-10-01 18:53:06 ✔ Oignon jaune découvert  → check « Discover Yellow Onion »
+2026-10-01 18:53:06 ✔ Oignon roc découvert  → check « Discover Rock Onion »
+2026-10-01 18:53:06 ✔ Objet obtenu : Data Glutton  → check « Obtain Data Glutton »
+2026-10-01 18:53:06 • Objet inconnu obtenu (bit 0x8)
+2026-10-01 18:53:06 ✔ Objet obtenu : Anti-Electrifier  → check « Obtain Anti-Electrifier »
+2026-10-01 18:53:06 ✔ Objet obtenu : Dodge Whistle  → check « Obtain Dodge Whistle »
+2026-10-01 18:53:06 ✔ Population 50 atteinte  → check « Population 50 »
+2026-10-01 18:53:06 ✔ Population 100 atteinte  → check « Population 100 »
+2026-10-01 18:53:06 ✔ Population 150 atteinte  → check « Population 150 »
+2026-10-01 18:53:06 ✔ Population 200 atteinte  → check « Population 200 »
+2026-10-01 18:53:06 ✔ Population 250 atteinte  → check « Population 250 »
+2026-10-01 18:53:06 ✔ Population 300 atteinte  → check « Population 300 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°1)  → check « Notes A #1 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°2)  → check « Notes A #2 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°3)  → check « Notes A #3 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°4)  → check « Notes A #4 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°5)  → check « Notes A #5 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°6)  → check « Notes A #6 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°7)  → check « Notes A #7 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°8)  → check « Notes A #8 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°9)  → check « Notes A #9 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°10)  → check « Notes A #10 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°11)  → check « Notes A #11 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°12)  → check « Notes A #12 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°13)  → check « Notes A #13 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°14)  → check « Notes A #14 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°15)  → check « Notes A #15 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°16)  → check « Notes A #16 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°17)  → check « Notes A #17 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°18)  → check « Notes A #18 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°19)  → check « Notes A #19 »
+2026-10-01 18:53:13 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°20)  → check « Notes A #20 »
+2026-10-01 18:53:13 ✔ Note « Tutoriel » obtenue (ensemble B, n°1)  → check « Notes B #1 »
+2026-10-01 18:53:13 ✔ Note « Tutoriel » obtenue (ensemble B, n°2)  → check « Notes B #2 »
+2026-10-01 18:53:13 ✔ Note « Tutoriel » obtenue (ensemble B, n°3)  → check « Notes B #3 »
+2026-10-01 18:53:13 ✔ Note « Tutoriel » obtenue (ensemble B, n°4)  → check « Notes B #4 »
+2026-10-01 18:53:13 ✔ Note « Tutoriel » obtenue (ensemble B, n°5)  → check « Notes B #5 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°1)  → check « Notes C #1 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°2)  → check « Notes C #2 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°3)  → check « Notes C #3 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°4)  → check « Notes C #4 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°5)  → check « Notes C #5 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°6)  → check « Notes C #6 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°7)  → check « Notes C #7 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°8)  → check « Notes C #8 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°9)  → check « Notes C #9 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°10)  → check « Notes C #10 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°11)  → check « Notes C #11 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°12)  → check « Notes C #12 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°13)  → check « Notes C #13 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°14)  → check « Notes C #14 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°15)  → check « Notes C #15 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°16)  → check « Notes C #16 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°17)  → check « Notes C #17 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°18)  → check « Notes C #18 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°19)  → check « Notes C #19 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°20)  → check « Notes C #20 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°21)  → check « Notes C #21 »
+2026-10-01 18:53:13 ✔ Note « Document / scène » obtenue (ensemble C, n°22)  → check « Notes C #22 »
+2026-10-01 18:53:13 ✔ Note « Olimar » obtenue (ensemble D, n°1)  → check « Olimar Note 1 »
+2026-10-01 18:53:13 ✔ Note « Olimar » obtenue (ensemble D, n°2)  → check « Olimar Note 2 »
+2026-10-01 18:53:13 ✔ Note « Olimar » obtenue (ensemble D, n°3)  → check « Olimar Note 3 »
+2026-10-01 18:53:13 ✔ Étape d'histoire franchie (n°1)  → check « Story Event 1 »
+2026-10-01 18:53:13 ✔ Étape d'histoire franchie (n°2)  → check « Story Event 2 »
+2026-10-01 18:54:35 • Spray ultra-épicé obtenu (total 1)
+2026-10-01 18:57:45 ✔ Oignon bleu découvert (bit supposé, à confirmer)  → check « Discover Blue Onion »
+2026-10-01 19:01:52 • Spray ultra-épicé obtenu (total 2)
+2026-10-01 19:03:18 ✔ Oignon bleu découvert (bit supposé, à confirmer)  → check « Discover Blue Onion »
+2026-10-01 19:03:19 • Partie rechargée : Partie lue : jour 12, 14 fruits pressés (11 sortes), population 300, Oignons rouge, jaune, roc, objets Data Glutton, Anti-Electrifier, Dodge Whistle, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:20 ✔ Jour 13 atteint  → check « Reach Day 13 »
+2026-10-01 19:03:20 ✔ Fruit pressé (n°15)  → check « Fruit 15 »
+2026-10-01 19:03:20 ✔ Nouvelle sorte de fruit enregistrée (12e sorte)  → check « Fruit Kind 12 »
+2026-10-01 19:03:21 • Partie rechargée : Partie lue : jour 12, 14 fruits pressés (11 sortes), population 300, Oignons rouge, jaune, roc, objets Data Glutton, Anti-Electrifier, Dodge Whistle, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:23 • Partie rechargée : Partie lue : jour 11, 13 fruits pressés (10 sortes), population 247, Oignons rouge, jaune, roc, objets Data Glutton, Anti-Electrifier, Dodge Whistle, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:25 • Partie rechargée : Partie lue : jour 10, 9 fruits pressés (8 sortes), population 256, Oignons rouge, jaune, roc, objets Data Glutton, Anti-Electrifier, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:26 • Partie rechargée : Partie lue : jour 9, 6 fruits pressés (4 sortes), population 186, Oignons rouge, jaune, roc, objets Data Glutton, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:26 • Partie rechargée : Partie lue : jour 8, 5 fruits pressés (4 sortes), population 132, Oignons rouge, roc, objets Data Glutton, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:27 • Partie rechargée : Partie lue : jour 6, 3 fruits pressés (2 sortes), population 62, Oignons rouge, roc, objets aucun, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:27 • Partie rechargée : Partie lue : jour 5, 2 fruits pressés (2 sortes), population 62, Oignons rouge, roc, objets aucun, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:28 • Partie rechargée : Partie lue : jour 2, 0 fruits pressés (0 sortes), population 21, Oignons rouge, objets aucun, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:28 • Partie rechargée : Partie lue : jour 1, 0 fruits pressés (0 sortes), population 0, Oignons aucun, objets aucun, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:03:29 ✔ Jour 2 atteint  → check « Reach Day 2 »
+2026-10-01 19:03:29 ✔ Jour 3 atteint  → check « Reach Day 3 »
+2026-10-01 19:03:29 ✔ Fruit pressé (n°1)  → check « Fruit 1 »
+2026-10-01 19:03:29 ✔ Nouvelle sorte de fruit enregistrée (1e sorte)  → check « Fruit Kind 1 »
+2026-10-01 19:03:29 • Oignon rouge découvert
+2026-10-01 19:03:29 ✔ Oignon roc découvert  → check « Discover Rock Onion »
+2026-10-01 19:03:29 • Objet inconnu obtenu (bit 0x8)
+2026-10-01 19:03:29 ✔ Population 50 atteinte  → check « Population 50 »
+2026-10-01 19:03:29 ✔ Jour 4 atteint  → check « Reach Day 4 »
+2026-10-01 19:03:29 ✔ Fruit pressé (n°2)  → check « Fruit 2 »
+2026-10-01 19:03:29 ✔ Nouvelle sorte de fruit enregistrée (2e sorte)  → check « Fruit Kind 2 »
+2026-10-01 19:03:30 ✔ Jour 5 atteint  → check « Reach Day 5 »
+2026-10-01 19:03:30 ✔ Jour 6 atteint  → check « Reach Day 6 »
+2026-10-01 19:03:30 ✔ Jour 7 atteint  → check « Reach Day 7 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°3)  → check « Fruit 3 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°4)  → check « Fruit 4 »
+2026-10-01 19:03:30 ✔ Nouvelle sorte de fruit enregistrée (3e sorte)  → check « Fruit Kind 3 »
+2026-10-01 19:03:30 ✔ Jour 8 atteint  → check « Reach Day 8 »
+2026-10-01 19:03:30 ✔ Jour 9 atteint  → check « Reach Day 9 »
+2026-10-01 19:03:30 ✔ Jour 10 atteint  → check « Reach Day 10 »
+2026-10-01 19:03:30 ✔ Jour 11 atteint  → check « Reach Day 11 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°5)  → check « Fruit 5 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°6)  → check « Fruit 6 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°7)  → check « Fruit 7 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°8)  → check « Fruit 8 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°9)  → check « Fruit 9 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°10)  → check « Fruit 10 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°11)  → check « Fruit 11 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°12)  → check « Fruit 12 »
+2026-10-01 19:03:30 ✔ Fruit pressé (n°13)  → check « Fruit 13 »
+2026-10-01 19:03:30 ✔ Nouvelle sorte de fruit enregistrée (4e sorte)  → check « Fruit Kind 4 »
+2026-10-01 19:03:30 ✔ Nouvelle sorte de fruit enregistrée (5e sorte)  → check « Fruit Kind 5 »
+2026-10-01 19:03:30 ✔ Nouvelle sorte de fruit enregistrée (6e sorte)  → check « Fruit Kind 6 »
+2026-10-01 19:03:30 ✔ Nouvelle sorte de fruit enregistrée (7e sorte)  → check « Fruit Kind 7 »
+2026-10-01 19:03:30 ✔ Nouvelle sorte de fruit enregistrée (8e sorte)  → check « Fruit Kind 8 »
+2026-10-01 19:03:30 ✔ Nouvelle sorte de fruit enregistrée (9e sorte)  → check « Fruit Kind 9 »
+2026-10-01 19:03:30 ✔ Nouvelle sorte de fruit enregistrée (10e sorte)  → check « Fruit Kind 10 »
+2026-10-01 19:03:30 ✔ Oignon jaune découvert  → check « Discover Yellow Onion »
+2026-10-01 19:03:30 ✔ Objet obtenu : Data Glutton  → check « Obtain Data Glutton »
+2026-10-01 19:03:30 ✔ Objet obtenu : Anti-Electrifier  → check « Obtain Anti-Electrifier »
+2026-10-01 19:03:30 ✔ Objet obtenu : Dodge Whistle  → check « Obtain Dodge Whistle »
+2026-10-01 19:03:30 ✔ Population 100 atteinte  → check « Population 100 »
+2026-10-01 19:03:30 ✔ Population 150 atteinte  → check « Population 150 »
+2026-10-01 19:03:30 ✔ Population 200 atteinte  → check « Population 200 »
+2026-10-01 19:03:31 ✔ Jour 12 atteint  → check « Reach Day 12 »
+2026-10-01 19:03:31 ✔ Jour 13 atteint  → check « Reach Day 13 »
+2026-10-01 19:03:31 ✔ Fruit pressé (n°14)  → check « Fruit 14 »
+2026-10-01 19:03:31 ✔ Fruit pressé (n°15)  → check « Fruit 15 »
+2026-10-01 19:03:31 ✔ Nouvelle sorte de fruit enregistrée (11e sorte)  → check « Fruit Kind 11 »
+2026-10-01 19:03:31 ✔ Nouvelle sorte de fruit enregistrée (12e sorte)  → check « Fruit Kind 12 »
+2026-10-01 19:03:31 ✔ Population 250 atteinte  → check « Population 250 »
+2026-10-01 19:03:31 ✔ Population 300 atteinte  → check « Population 300 »
+2026-10-01 19:03:59 ✔ Oignon bleu découvert (bit supposé, à confirmer)  → check « Discover Blue Onion »
+2026-10-01 19:04:40 ✔ Jour 14 atteint  → check « Reach Day 14 »
+2026-10-01 19:04:40 ✔ Population 350 atteinte  → check « Population 350 »
+2026-10-01 19:04:40 ✔ Population 400 atteinte  → check « Population 400 »
+2026-10-01 19:19:52 Cemu fermé.
+2026-10-01 19:19:52 Cemu trouvé mais illisible : Espace mémoire Wii U introuvable dans Cemu.
+2026-10-01 19:19:58 En attente de Cemu…
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:13 Cemu connecté (pid 45340).
+2026-10-01 19:21:13 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:14 Cemu connecté (pid 45340).
+2026-10-01 19:21:14 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:15 Cemu connecté (pid 45340).
+2026-10-01 19:21:15 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:16 Cemu connecté (pid 45340).
+2026-10-01 19:21:16 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:17 Cemu connecté (pid 45340).
+2026-10-01 19:21:17 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:18 Cemu connecté (pid 45340).
+2026-10-01 19:21:18 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 Cemu fermé.
+2026-10-01 19:21:19 Cemu connecté (pid 45340).
+2026-10-01 19:21:19 En attente d'une partie en mode Histoire…
+2026-10-01 19:21:22 • Partie lue : jour 1, 0 fruits pressés (0 sortes), population 0, Oignons aucun, objets aucun, notes : Pikmin-ology 0, Tutoriel 0, Document / scène 0, Olimar 0, étapes d'histoire 0
+2026-10-01 19:21:38 ✔ Jour 2 atteint  → check « Reach Day 2 »
+2026-10-01 19:21:38 ✔ Jour 3 atteint  → check « Reach Day 3 »
+2026-10-01 19:21:38 ✔ Jour 4 atteint  → check « Reach Day 4 »
+2026-10-01 19:21:38 ✔ Jour 5 atteint  → check « Reach Day 5 »
+2026-10-01 19:21:38 ✔ Jour 6 atteint  → check « Reach Day 6 »
+2026-10-01 19:21:38 ✔ Jour 7 atteint  → check « Reach Day 7 »
+2026-10-01 19:21:38 ✔ Jour 8 atteint  → check « Reach Day 8 »
+2026-10-01 19:21:38 ✔ Jour 9 atteint  → check « Reach Day 9 »
+2026-10-01 19:21:38 ✔ Jour 10 atteint  → check « Reach Day 10 »
+2026-10-01 19:21:38 ✔ Jour 11 atteint  → check « Reach Day 11 »
+2026-10-01 19:21:38 ✔ Jour 12 atteint  → check « Reach Day 12 »
+2026-10-01 19:21:38 ✔ Jour 13 atteint  → check « Reach Day 13 »
+2026-10-01 19:21:38 ✔ Jour 14 atteint  → check « Reach Day 14 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°1)  → check « Fruit 1 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°2)  → check « Fruit 2 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°3)  → check « Fruit 3 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°4)  → check « Fruit 4 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°5)  → check « Fruit 5 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°6)  → check « Fruit 6 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°7)  → check « Fruit 7 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°8)  → check « Fruit 8 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°9)  → check « Fruit 9 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°10)  → check « Fruit 10 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°11)  → check « Fruit 11 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°12)  → check « Fruit 12 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°13)  → check « Fruit 13 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°14)  → check « Fruit 14 »
+2026-10-01 19:21:38 ✔ Fruit pressé (n°15)  → check « Fruit 15 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (1e sorte)  → check « Fruit Kind 1 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (2e sorte)  → check « Fruit Kind 2 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (3e sorte)  → check « Fruit Kind 3 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (4e sorte)  → check « Fruit Kind 4 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (5e sorte)  → check « Fruit Kind 5 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (6e sorte)  → check « Fruit Kind 6 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (7e sorte)  → check « Fruit Kind 7 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (8e sorte)  → check « Fruit Kind 8 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (9e sorte)  → check « Fruit Kind 9 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (10e sorte)  → check « Fruit Kind 10 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (11e sorte)  → check « Fruit Kind 11 »
+2026-10-01 19:21:38 ✔ Nouvelle sorte de fruit enregistrée (12e sorte)  → check « Fruit Kind 12 »
+2026-10-01 19:21:38 • Oignon rouge découvert
+2026-10-01 19:21:38 ✔ Oignon bleu découvert (bit supposé, à confirmer)  → check « Discover Blue Onion »
+2026-10-01 19:21:38 ✔ Oignon jaune découvert  → check « Discover Yellow Onion »
+2026-10-01 19:21:38 ✔ Oignon roc découvert  → check « Discover Rock Onion »
+2026-10-01 19:21:38 ✔ Objet obtenu : Data Glutton  → check « Obtain Data Glutton »
+2026-10-01 19:21:38 • Objet inconnu obtenu (bit 0x8)
+2026-10-01 19:21:38 ✔ Objet obtenu : Anti-Electrifier  → check « Obtain Anti-Electrifier »
+2026-10-01 19:21:38 ✔ Objet obtenu : Dodge Whistle  → check « Obtain Dodge Whistle »
+2026-10-01 19:21:38 ✔ Population 50 atteinte  → check « Population 50 »
+2026-10-01 19:21:38 ✔ Population 100 atteinte  → check « Population 100 »
+2026-10-01 19:21:38 ✔ Population 150 atteinte  → check « Population 150 »
+2026-10-01 19:21:38 ✔ Population 200 atteinte  → check « Population 200 »
+2026-10-01 19:21:38 ✔ Population 250 atteinte  → check « Population 250 »
+2026-10-01 19:21:38 ✔ Population 300 atteinte  → check « Population 300 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°1)  → check « Notes A #1 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°2)  → check « Notes A #2 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°3)  → check « Notes A #3 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°4)  → check « Notes A #4 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°5)  → check « Notes A #5 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°6)  → check « Notes A #6 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°7)  → check « Notes A #7 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°8)  → check « Notes A #8 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°9)  → check « Notes A #9 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°10)  → check « Notes A #10 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°11)  → check « Notes A #11 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°12)  → check « Notes A #12 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°13)  → check « Notes A #13 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°14)  → check « Notes A #14 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°15)  → check « Notes A #15 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°16)  → check « Notes A #16 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°17)  → check « Notes A #17 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°18)  → check « Notes A #18 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°19)  → check « Notes A #19 »
+2026-10-01 19:21:42 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°20)  → check « Notes A #20 »
+2026-10-01 19:21:42 ✔ Note « Tutoriel » obtenue (ensemble B, n°1)  → check « Notes B #1 »
+2026-10-01 19:21:42 ✔ Note « Tutoriel » obtenue (ensemble B, n°2)  → check « Notes B #2 »
+2026-10-01 19:21:42 ✔ Note « Tutoriel » obtenue (ensemble B, n°3)  → check « Notes B #3 »
+2026-10-01 19:21:42 ✔ Note « Tutoriel » obtenue (ensemble B, n°4)  → check « Notes B #4 »
+2026-10-01 19:21:42 ✔ Note « Tutoriel » obtenue (ensemble B, n°5)  → check « Notes B #5 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°1)  → check « Notes C #1 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°2)  → check « Notes C #2 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°3)  → check « Notes C #3 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°4)  → check « Notes C #4 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°5)  → check « Notes C #5 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°6)  → check « Notes C #6 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°7)  → check « Notes C #7 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°8)  → check « Notes C #8 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°9)  → check « Notes C #9 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°10)  → check « Notes C #10 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°11)  → check « Notes C #11 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°12)  → check « Notes C #12 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°13)  → check « Notes C #13 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°14)  → check « Notes C #14 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°15)  → check « Notes C #15 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°16)  → check « Notes C #16 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°17)  → check « Notes C #17 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°18)  → check « Notes C #18 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°19)  → check « Notes C #19 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°20)  → check « Notes C #20 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°21)  → check « Notes C #21 »
+2026-10-01 19:21:42 ✔ Note « Document / scène » obtenue (ensemble C, n°22)  → check « Notes C #22 »
+2026-10-01 19:21:42 ✔ Note « Olimar » obtenue (ensemble D, n°1)  → check « Olimar Note 1 »
+2026-10-01 19:21:42 ✔ Note « Olimar » obtenue (ensemble D, n°2)  → check « Olimar Note 2 »
+2026-10-01 19:21:42 ✔ Note « Olimar » obtenue (ensemble D, n°3)  → check « Olimar Note 3 »
+2026-10-01 19:21:42 ✔ Étape d'histoire franchie (n°1)  → check « Story Event 1 »
+2026-10-01 19:21:42 ✔ Étape d'histoire franchie (n°2)  → check « Story Event 2 »
+2026-10-01 19:24:14 Cemu fermé.
+2026-10-01 19:24:14 Cemu trouvé mais illisible : Espace mémoire Wii U introuvable dans Cemu.
+2026-10-01 19:24:19 En attente de Cemu…
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:24 Cemu connecté (pid 38792).
+2026-10-01 19:24:24 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:25 Cemu connecté (pid 38792).
+2026-10-01 19:24:25 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:26 Cemu connecté (pid 38792).
+2026-10-01 19:24:26 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 Cemu fermé.
+2026-10-01 19:24:27 Cemu connecté (pid 38792).
+2026-10-01 19:24:27 En attente d'une partie en mode Histoire…
+2026-10-01 19:24:31 • Partie lue : jour 1, 0 fruits pressés (0 sortes), population 0, Oignons aucun, objets aucun, notes : Pikmin-ology 0, Tutoriel 0, Document / scène 0, Olimar 0, étapes d'histoire 0
+2026-10-01 19:24:52 ✔ Jour 2 atteint  → check « Reach Day 2 »
+2026-10-01 19:24:52 ✔ Jour 3 atteint  → check « Reach Day 3 »
+2026-10-01 19:24:52 ✔ Jour 4 atteint  → check « Reach Day 4 »
+2026-10-01 19:24:52 ✔ Jour 5 atteint  → check « Reach Day 5 »
+2026-10-01 19:24:52 ✔ Jour 6 atteint  → check « Reach Day 6 »
+2026-10-01 19:24:52 ✔ Jour 7 atteint  → check « Reach Day 7 »
+2026-10-01 19:24:52 ✔ Jour 8 atteint  → check « Reach Day 8 »
+2026-10-01 19:24:52 ✔ Jour 9 atteint  → check « Reach Day 9 »
+2026-10-01 19:24:52 ✔ Jour 10 atteint  → check « Reach Day 10 »
+2026-10-01 19:24:52 ✔ Jour 11 atteint  → check « Reach Day 11 »
+2026-10-01 19:24:52 ✔ Jour 12 atteint  → check « Reach Day 12 »
+2026-10-01 19:24:52 ✔ Jour 13 atteint  → check « Reach Day 13 »
+2026-10-01 19:24:52 ✔ Jour 14 atteint  → check « Reach Day 14 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°1)  → check « Fruit 1 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°2)  → check « Fruit 2 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°3)  → check « Fruit 3 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°4)  → check « Fruit 4 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°5)  → check « Fruit 5 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°6)  → check « Fruit 6 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°7)  → check « Fruit 7 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°8)  → check « Fruit 8 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°9)  → check « Fruit 9 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°10)  → check « Fruit 10 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°11)  → check « Fruit 11 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°12)  → check « Fruit 12 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°13)  → check « Fruit 13 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°14)  → check « Fruit 14 »
+2026-10-01 19:24:52 ✔ Fruit pressé (n°15)  → check « Fruit 15 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (1e sorte)  → check « Fruit Kind 1 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (2e sorte)  → check « Fruit Kind 2 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (3e sorte)  → check « Fruit Kind 3 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (4e sorte)  → check « Fruit Kind 4 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (5e sorte)  → check « Fruit Kind 5 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (6e sorte)  → check « Fruit Kind 6 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (7e sorte)  → check « Fruit Kind 7 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (8e sorte)  → check « Fruit Kind 8 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (9e sorte)  → check « Fruit Kind 9 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (10e sorte)  → check « Fruit Kind 10 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (11e sorte)  → check « Fruit Kind 11 »
+2026-10-01 19:24:52 ✔ Nouvelle sorte de fruit enregistrée (12e sorte)  → check « Fruit Kind 12 »
+2026-10-01 19:24:52 • Oignon rouge découvert
+2026-10-01 19:24:52 ✔ Oignon bleu découvert (bit supposé, à confirmer)  → check « Discover Blue Onion »
+2026-10-01 19:24:52 ✔ Oignon jaune découvert  → check « Discover Yellow Onion »
+2026-10-01 19:24:52 ✔ Oignon roc découvert  → check « Discover Rock Onion »
+2026-10-01 19:24:52 ✔ Objet obtenu : Data Glutton  → check « Obtain Data Glutton »
+2026-10-01 19:24:52 • Objet inconnu obtenu (bit 0x8)
+2026-10-01 19:24:52 ✔ Objet obtenu : Anti-Electrifier  → check « Obtain Anti-Electrifier »
+2026-10-01 19:24:52 ✔ Objet obtenu : Dodge Whistle  → check « Obtain Dodge Whistle »
+2026-10-01 19:24:52 ✔ Population 50 atteinte  → check « Population 50 »
+2026-10-01 19:24:52 ✔ Population 100 atteinte  → check « Population 100 »
+2026-10-01 19:24:52 ✔ Population 150 atteinte  → check « Population 150 »
+2026-10-01 19:24:52 ✔ Population 200 atteinte  → check « Population 200 »
+2026-10-01 19:24:52 ✔ Population 250 atteinte  → check « Population 250 »
+2026-10-01 19:24:52 ✔ Population 300 atteinte  → check « Population 300 »
+2026-10-01 19:24:55 • Partie rechargée : Partie lue : jour 13, 15 fruits pressés (12 sortes), population 300, Oignons rouge, jaune, roc, objets Data Glutton, Anti-Electrifier, Dodge Whistle, notes : Pikmin-ology 0, Tutoriel 0, Document / scène 0, Olimar 0, étapes d'histoire 0
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°1)  → check « Notes A #1 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°2)  → check « Notes A #2 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°3)  → check « Notes A #3 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°4)  → check « Notes A #4 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°5)  → check « Notes A #5 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°6)  → check « Notes A #6 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°7)  → check « Notes A #7 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°8)  → check « Notes A #8 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°9)  → check « Notes A #9 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°10)  → check « Notes A #10 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°11)  → check « Notes A #11 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°12)  → check « Notes A #12 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°13)  → check « Notes A #13 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°14)  → check « Notes A #14 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°15)  → check « Notes A #15 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°16)  → check « Notes A #16 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°17)  → check « Notes A #17 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°18)  → check « Notes A #18 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°19)  → check « Notes A #19 »
+2026-10-01 19:25:00 ✔ Note « Pikmin-ology » obtenue (ensemble A, n°20)  → check « Notes A #20 »
+2026-10-01 19:25:00 ✔ Note « Tutoriel » obtenue (ensemble B, n°1)  → check « Notes B #1 »
+2026-10-01 19:25:00 ✔ Note « Tutoriel » obtenue (ensemble B, n°2)  → check « Notes B #2 »
+2026-10-01 19:25:00 ✔ Note « Tutoriel » obtenue (ensemble B, n°3)  → check « Notes B #3 »
+2026-10-01 19:25:00 ✔ Note « Tutoriel » obtenue (ensemble B, n°4)  → check « Notes B #4 »
+2026-10-01 19:25:00 ✔ Note « Tutoriel » obtenue (ensemble B, n°5)  → check « Notes B #5 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°1)  → check « Notes C #1 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°2)  → check « Notes C #2 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°3)  → check « Notes C #3 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°4)  → check « Notes C #4 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°5)  → check « Notes C #5 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°6)  → check « Notes C #6 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°7)  → check « Notes C #7 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°8)  → check « Notes C #8 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°9)  → check « Notes C #9 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°10)  → check « Notes C #10 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°11)  → check « Notes C #11 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°12)  → check « Notes C #12 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°13)  → check « Notes C #13 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°14)  → check « Notes C #14 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°15)  → check « Notes C #15 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°16)  → check « Notes C #16 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°17)  → check « Notes C #17 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°18)  → check « Notes C #18 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°19)  → check « Notes C #19 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°20)  → check « Notes C #20 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°21)  → check « Notes C #21 »
+2026-10-01 19:25:00 ✔ Note « Document / scène » obtenue (ensemble C, n°22)  → check « Notes C #22 »
+2026-10-01 19:25:00 ✔ Note « Olimar » obtenue (ensemble D, n°1)  → check « Olimar Note 1 »
+2026-10-01 19:25:00 ✔ Note « Olimar » obtenue (ensemble D, n°2)  → check « Olimar Note 2 »
+2026-10-01 19:25:00 ✔ Note « Olimar » obtenue (ensemble D, n°3)  → check « Olimar Note 3 »
+2026-10-01 19:25:00 ✔ Étape d'histoire franchie (n°1)  → check « Story Event 1 »
+2026-10-01 19:25:00 ✔ Étape d'histoire franchie (n°2)  → check « Story Event 2 »
+2026-10-01 19:26:23 ✔ Oignon bleu découvert (bit supposé, à confirmer)  → check « Discover Blue Onion »
+2026-10-01 19:27:15 ✔ Oignon ailé découvert (bit supposé, à confirmer)  → check « Discover Winged Onion »
+2026-10-01 19:27:50 ✔ Jour 14 atteint  → check « Reach Day 14 »
+2026-10-01 19:30:30 ✔ Jour 15 atteint  → check « Reach Day 15 »
+2026-10-01 19:33:13 • Partie rechargée : Partie lue : jour 14, 15 fruits pressés (12 sortes), population 310, Oignons rouge, jaune, ailé, roc, objets Data Glutton, Anti-Electrifier, Dodge Whistle, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:33:13 • Partie rechargée : Partie lue : jour 13, 15 fruits pressés (12 sortes), population 300, Oignons rouge, jaune, roc, objets Data Glutton, Anti-Electrifier, Dodge Whistle, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:33:14 ✔ Jour 14 atteint  → check « Reach Day 14 »
+2026-10-01 19:33:14 ✔ Oignon ailé découvert (bit supposé, à confirmer)  → check « Discover Winged Onion »
+2026-10-01 19:34:12 ✔ Jour 15 atteint  → check « Reach Day 15 »
+2026-10-01 19:34:15 • Partie rechargée : Partie lue : jour 13, 15 fruits pressés (12 sortes), population 300, Oignons rouge, jaune, roc, objets Data Glutton, Anti-Electrifier, Dodge Whistle, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:34:21 • Partie rechargée : Partie lue : jour 12, 14 fruits pressés (11 sortes), population 300, Oignons rouge, jaune, roc, objets Data Glutton, Anti-Electrifier, Dodge Whistle, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:34:21 ✔ Jour 13 atteint  → check « Reach Day 13 »
+2026-10-01 19:34:21 ✔ Fruit pressé (n°15)  → check « Fruit 15 »
+2026-10-01 19:34:21 ✔ Nouvelle sorte de fruit enregistrée (12e sorte)  → check « Fruit Kind 12 »
+2026-10-01 19:34:22 • Partie rechargée : Partie lue : jour 12, 14 fruits pressés (11 sortes), population 300, Oignons rouge, jaune, roc, objets Data Glutton, Anti-Electrifier, Dodge Whistle, notes : Pikmin-ology 20, Tutoriel 5, Document / scène 22, Olimar 3, étapes d'histoire 2
+2026-10-01 19:34:23 ✔ Jour 13 atteint  → check « Reach Day 13 »
+2026-10-01 19:34:23 ✔ Fruit pressé (n°15)  → check « Fruit 15 »
+2026-10-01 19:34:23 ✔ Nouvelle sorte de fruit enregistrée (12e sorte)  → check « Fruit Kind 12 »
+2026-10-01 19:43:13 ✔ Oignon bleu découvert (bit supposé, à confirmer)  → check « Discover Blue Onion »
+2026-10-01 19:44:25 ✔ Note « Document / scène » obtenue (ensemble C, n°23)  → check « Notes C #23 »
+2026-10-01 19:45:59 ✔ Note « Document / scène » obtenue (ensemble C, n°24)  → check « Notes C #24 »
+2026-10-01 19:48:12 ✔ Note « Olimar » obtenue (ensemble D, n°4)  → check « Olimar Note 4 »
+2026-10-01 19:48:53 • Objet inconnu obtenu (bit 0x40)
+2026-10-01 19:49:21 ✔ Note « Document / scène » obtenue (ensemble C, n°25)  → check « Notes C #25 »
+2026-10-01 19:54:26 • Spray ultra-épicé obtenu (total 1)
+2026-10-01 19:57:26 ✔ Oignon ailé découvert (bit supposé, à confirmer)  → check « Discover Winged Onion »
+2026-10-01 19:59:11 ✔ Jour 14 atteint  → check « Reach Day 14 »
+2026-10-01 19:59:52 ✔ Fruit pressé (n°16)  → check « Fruit 16 »
+2026-10-01 19:59:52 ✔ Nouvelle sorte de fruit enregistrée (13e sorte)  → check « Fruit Kind 13 »
+2026-10-01 20:00:01 ✔ Fruit pressé (n°17)  → check « Fruit 17 »
+2026-10-01 20:00:10 ✔ Fruit pressé (n°18)  → check « Fruit 18 »
+2026-10-01 20:00:23 ✔ Fruit pressé (n°19)  → check « Fruit 19 »
+2026-10-01 20:00:23 ✔ Nouvelle sorte de fruit enregistrée (14e sorte)  → check « Fruit Kind 14 »
+2026-10-01 20:00:31 ✔ Fruit pressé (n°20)  → check « Fruit 20 »
+2026-10-01 20:00:31 ✔ Nouvelle sorte de fruit enregistrée (15e sorte)  → check « Fruit Kind 15 »
+2026-10-01 20:04:29 Cemu fermé.
+2026-10-01 20:04:29 Cemu connecté (pid 38792).
+2026-10-01 20:04:29 Cemu fermé.
+2026-10-01 20:04:29 Cemu connecté (pid 38792).
+2026-10-01 20:04:29 Cemu fermé.
+2026-10-01 20:04:29 Cemu trouvé mais illisible : Espace mémoire Wii U introuvable dans Cemu.
+2026-10-01 20:04:34 En attente de Cemu…

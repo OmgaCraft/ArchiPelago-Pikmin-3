@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 000500001012BE00
+name = "Archipelago - test Phase 0"
+path = "Pikmin 3/Mods/Archipelago Phase 0 Test"
+description = "Test de la Phase 0 du projet Archipelago : reserve une boite aux lettres signee dans une code cave. Ne modifie aucun code du jeu."
+version = 7

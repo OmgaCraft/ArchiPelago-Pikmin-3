@@ -1,0 +1,29 @@
+# Test Phase 0 : valide moduleMatches et le principe de "boite aux lettres".
+# Aucune instruction du jeu n'est modifiee : on reserve seulement une zone
+# de 64 octets (code cave) qui commence par une signature que le client
+# retrouve en scannant la memoire.
+# (Fichier volontairement en ASCII pour l'analyseur de Cemu.)
+
+[P3AP_Phase0_EUR_v1]
+# Pikmin 3 EUR v1 (disque), module "carrot" (releve dans log.txt de Cemu)
+moduleMatches = 0x838BE11A
+
+CodeCaveSize = 0x40
+
+_apMailbox = 0x00000000
+0x00000000 = .int 1345536336   # 0x50334150 = "P3AP" (signature)
+0x00000004 = .int 1296191320   # 0x4D424F58 = "MBOX" (signature)
+0x00000008 = .int 1            # version du protocole de test
+0x0000000C = .int 0            # compteur ecrit par le client (test d'ecriture)
+0x00000010 = .int 0
+0x00000014 = .int 0
+0x00000018 = .int 0
+0x0000001C = .int 0
+0x00000020 = .int 0
+0x00000024 = .int 0
+0x00000028 = .int 0
+0x0000002C = .int 0
+0x00000030 = .int 0
+0x00000034 = .int 0
+0x00000038 = .int 0
+0x0000003C = .int 0

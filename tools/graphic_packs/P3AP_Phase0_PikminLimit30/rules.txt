@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 000500001012BE00
+name = "Archipelago - test : limite 30 Pikmin"
+path = "Pikmin 3/Mods/Archipelago Phase 0 PikminLimit30"
+description = "Test de la Phase 0 (option A) : limite de Pikmin sur le terrain abaissee de 100 a 30. A desactiver apres le test."
+version = 7

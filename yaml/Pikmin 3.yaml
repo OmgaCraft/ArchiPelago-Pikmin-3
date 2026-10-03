@@ -1,0 +1,70 @@
+# Fichier joueur Pikmin 3 (Wii U / Cemu) pour Archipelago.
+# Copie-le dans C:\ProgramData\Archipelago\Players, change « name », puis génère.
+
+# Ton nom de slot (16 caractères max) : c'est ce nom que le Pikmin 3 Client te demandera.
+# Il doit être différent des noms des autres fichiers de la partie.
+name: JoueurPikmin3
+
+description: Pikmin 3 EUR v1 (V1 1.0.0)
+
+game: Pikmin 3
+requires:
+  version: 0.6.7
+  game:
+    Pikmin 3: 1.0.0
+
+Pikmin 3:
+  # Objectif : « final_boss » (battre le boss final ET presser fruits_required fruits), « fruits » (presser
+  # fruits_required fruits) ou « population » (atteindre population_required Pikmin).
+  goal: final_boss
+  fruits_required: 40
+  population_required: 300
+
+  # Paliers de population (Oignons + terrain) : un check tous les 50 Pikmin, jusqu'à 250.
+  population_milestone_step: 50
+  population_milestone_max: 250
+
+  # Découverte des Oignons (bleu, jaune, ailé, roc), objets importants (Data Glutton, Anti-Electrifier,
+  # Metal Suit Z, Dodge Whistle) et sauvetage de Louie comme checks.
+  onion_checks: true
+  key_item_checks: true
+
+  # Notes du GamePad comme checks : notes de conseils (63 au total) et notes d'Olimar (15 au total).
+  note_checks: true
+  tutorial_note_count: 30
+  olimar_note_count: 8
+
+  # Secret Memos comme checks (0 = aucun ; 10 d'après les guides, emplacements inconnus → demandent toutes les zones).
+  secret_memo_count: 0
+
+  # Limite de Pikmin sur le terrain : commence à 30 et monte de 10 par item « Progressive Pikmin Limit ».
+  # Mets false pour garder la limite normale de 100.
+  progressive_pikmin_limit: true
+  pikmin_limit_start: 30
+  pikmin_limit_step: 10
+
+  # [Expérimental] Zones : on commence avec Tropical Wilds et Garden of Hope, chaque item « Progressive Zone »
+  # ouvre la suivante (Distant Tundra, Twilight River, puis Formidable Oak = zone du boss final). Si l'histoire
+  # ouvre une zone trop tôt, le client la referme jusqu'à l'item.
+  progressive_zones: true
+
+  # [Expérimental] 4 items « Progressive Pikmin » qui débloquent roc, jaune, ailé, bleu (à la fin de la journée
+  # où l'item arrive). L'histoire les débloque aussi : ces items font gagner du temps, sans être exigés.
+  progressive_pikmin: false
+
+  # Jus : safe = jamais moins de 2 bouteilles, no_consumption = la bouteille bue chaque nuit est rendue,
+  # normal = aucune aide (tu peux perdre la partie).
+  juice_mode: safe
+
+  # Pourcentage d'objets de remplissage remplacés par des pièges (Juice Leak Trap : -0,5 bouteille).
+  trap_percentage: 0
+
+  # Poids des objets de remplissage.
+  filler_weights:
+    Juice Drop: 40
+    Extra Red Pikmin: 40
+    Ultra-Spicy Spray: 20
+
+  # Réglages communs à tous les jeux Archipelago.
+  progression_balancing: 50
+  accessibility: full

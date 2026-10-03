@@ -1,0 +1,41 @@
+Surveillance (Ctrl+C pour arrêter)…
+18:35:52 jour 11 | jus 9 | fruits pressés 13 (types 10)
+18:35:52 population 248 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [18, 0, 0], 'Rock': [67, 0, 0]}
+18:35:52 Oignons découverts (0xA8) : ['Red', 'Yellow', 'Rock']
+18:35:52 objets importants (0x0000009A) : ['Data Glutton', 'Anti-Electrifier', 'Dodge Whistle'] | bits inconnus 0x8
+18:35:52 notes : tuto 5, Olimar 2
+18:41:33 population 245 (terrain 97) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [18, 0, 0], 'Rock': [67, 0, 0]}
+18:41:33 population 244 (terrain 96) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [18, 0, 0], 'Rock': [67, 0, 0]}
+18:41:34 population 243 (terrain 95) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [18, 0, 0], 'Rock': [67, 0, 0]}
+18:44:30 population 242 (terrain 94) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [18, 0, 0], 'Rock': [67, 0, 0]}
+18:45:17 population 267 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [37, 0, 0], 'Rock': [67, 0, 0]}
+18:45:18 population 279 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [49, 0, 0], 'Rock': [67, 0, 0]}
+18:45:18 population 285 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [55, 0, 0], 'Rock': [67, 0, 0]}
+18:45:19 population 288 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [58, 0, 0], 'Rock': [67, 0, 0]}
+18:45:20 population 290 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [60, 0, 0], 'Rock': [67, 0, 0]}
+18:45:20 population 291 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [61, 0, 0], 'Rock': [67, 0, 0]}
+18:45:21 population 292 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 0], 'Yellow': [62, 0, 0], 'Rock': [67, 0, 0]}
+18:45:34 population 292 (terrain 99) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 1], 'Yellow': [62, 0, 0], 'Rock': [67, 0, 0]}
+18:45:34 population 292 (terrain 85) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 4], 'Yellow': [63, 0, 6], 'Rock': [67, 1, 3]}
+18:45:35 population 292 (terrain 62) | Oignons [feuille, bouton, fleur] {'Red': [63, 0, 10], 'Yellow': [66, 0, 14], 'Rock': [67, 1, 9]}
+18:45:35 population 292 (terrain 37) | Oignons [feuille, bouton, fleur] {'Red': [64, 1, 18], 'Yellow': [68, 0, 19], 'Rock': [67, 1, 17]}
+18:45:36 population 292 (terrain 20) | Oignons [feuille, bouton, fleur] {'Red': [64, 1, 23], 'Yellow': [70, 0, 21], 'Rock': [68, 1, 24]}
+18:45:36 population 292 (terrain 13) | Oignons [feuille, bouton, fleur] {'Red': [65, 1, 26], 'Yellow': [71, 0, 22], 'Rock': [68, 1, 25]}
+18:45:37 population 292 (terrain 10) | Oignons [feuille, bouton, fleur] {'Red': [65, 1, 27], 'Yellow': [71, 0, 22], 'Rock': [70, 1, 25]}
+18:45:37 population 292 (terrain 9) | Oignons [feuille, bouton, fleur] {'Red': [65, 1, 27], 'Yellow': [71, 0, 22], 'Rock': [71, 1, 25]}
+18:45:38 population 292 (terrain 8) | Oignons [feuille, bouton, fleur] {'Red': [65, 1, 27], 'Yellow': [71, 0, 22], 'Rock': [71, 1, 26]}
+18:45:49 population 292 (terrain 6) | Oignons [feuille, bouton, fleur] {'Red': [65, 1, 27], 'Yellow': [73, 0, 22], 'Rock': [71, 1, 26]}
+18:45:50 population 292 (terrain 3) | Oignons [feuille, bouton, fleur] {'Red': [65, 1, 27], 'Yellow': [76, 0, 22], 'Rock': [71, 1, 26]}
+18:45:50 population 292 (terrain 2) | Oignons [feuille, bouton, fleur] {'Red': [65, 1, 27], 'Yellow': [77, 0, 22], 'Rock': [71, 1, 26]}
+18:46:00 population 297 (terrain 2) | Oignons [feuille, bouton, fleur] {'Red': [70, 1, 27], 'Yellow': [77, 0, 22], 'Rock': [71, 1, 26]}
+18:46:57 population 298 (terrain 2) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 27], 'Yellow': [77, 0, 22], 'Rock': [71, 1, 26]}
+18:46:59 population 300 (terrain 2) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 27], 'Yellow': [77, 0, 22], 'Rock': [73, 1, 26]}
+18:47:35 jour 12 | jus 9 | fruits pressés 13 (types 10)
+18:47:35 population 302 (terrain 2) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+18:47:45 population 300 (terrain 0) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+18:48:27 jour 12 | jus 10 | fruits pressés 13 (types 10)
+18:48:34 jour 12 | jus 11 | fruits pressés 13 (types 10)
+18:48:40 jour 12 | jus 12 | fruits pressés 14 (types 11)
+18:48:51 jour 12 | jus 11 | fruits pressés 14 (types 11)
+18:49:57 population 300 (terrain None) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+18:49:58 population 300 (terrain 0) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}

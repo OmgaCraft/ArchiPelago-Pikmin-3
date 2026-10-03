@@ -1,0 +1,17 @@
+# Test Phase 0 (0.E n°4) : supprimer le jus donne par le pressage des fruits.
+# Analyse : docs/phase0/findings.md, section "Fonctions du jus".
+# Au pressage (fin de journee), le jeu :
+#   1) arrondit le jus a l'entier inferieur : 0x02C5679C -> bl setJuice (0x02C568FC)
+#   2) ajoute 1.0 par bouteille pleine    : 0x02C55A4C -> bl addJuice (0x02C55A78)
+#   3) ajoute le reste fractionnaire      : 0x02C5583C -> bl addJuice (0x02C55868)
+# On neutralise ces 3 appels : le jus ne change plus au pressage.
+# Attendu : bits des fruits et compteur de types toujours mis a jour,
+# consommation de la nuit (-1 bouteille) inchangee.
+# (Fichier volontairement en ASCII pour l'analyseur de Cemu.)
+
+[P3AP_NoFruitJuice_EUR_v1]
+moduleMatches = 0x838BE11A
+
+0x02C568FC = nop   # setJuice(floor(jus)) avant le pressage
+0x02C55A78 = nop   # addJuice(1.0) par bouteille
+0x02C55868 = nop   # addJuice(reste) en fin de pressage

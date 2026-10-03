@@ -1,0 +1,37 @@
+Surveillance (Ctrl+C pour arrêter)…
+21:49:46 jour 12 | jus 11 | fruits pressés 14 (types 11)
+21:49:46 population 300 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [66, 0, 0], 'Yellow': [67, 0, 0], 'Rock': [67, 0, 0]}
+21:49:46 Oignons découverts (0xA8) : ['Red', 'Yellow', 'Rock']
+21:49:46 objets importants (0x0000009A) : ['Data Glutton', 'Anti-Electrifier', 'Dodge Whistle'] | bits inconnus 0x8
+21:49:46 notes : tuto 5, Olimar 2
+21:53:28 notes : tuto 5, Olimar 3
+22:03:51 jour 13 | jus 11 | fruits pressés 14 (types 11)
+22:03:51 population 400 (terrain 100) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+22:04:00 population 393 (terrain 93) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+22:04:00 population 381 (terrain 81) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+22:04:01 population 364 (terrain 64) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+22:04:01 population 340 (terrain 40) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+22:04:02 population 319 (terrain 19) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+22:04:02 population 305 (terrain 5) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+22:04:03 population 300 (terrain 0) | Oignons [feuille, bouton, fleur] {'Red': [71, 1, 28], 'Yellow': [77, 0, 23], 'Rock': [73, 1, 26]}
+22:04:44 jour 13 | jus 12 | fruits pressés 14 (types 11)
+22:04:51 jour 13 | jus 13 | fruits pressés 14 (types 11)
+22:04:54 jour 13 | jus 13.5 | fruits pressés 14 (types 12)
+22:05:04 jour 13 | jus 12.5 | fruits pressés 14 (types 12)
+Traceback (most recent call last):
+  File "C:\Users\2dcra\OneDrive\Documents\ArchiPelago Lab\Pikmin 3\tools\solo_test.py", line 199, in <module>
+    main()
+    ~~~~^^
+  File "C:\Users\2dcra\OneDrive\Documents\ArchiPelago Lab\Pikmin 3\tools\solo_test.py", line 191, in main
+    args.func(mem, args)
+    ~~~~~~~~~^^^^^^^^^^^
+  File "C:\Users\2dcra\OneDrive\Documents\ArchiPelago Lab\Pikmin 3\tools\solo_test.py", line 98, in cmd_watch
+    snap = gi.read_snapshot(mem)
+  File "C:\Users\2dcra\OneDrive\Documents\ArchiPelago Lab\Pikmin 3\worlds\pikmin3\client\game_interface.py", line 61, in read_snapshot
+    game_data = mem.read_u32(mm.GAME_DATA_PTR)
+  File "C:\Users\2dcra\OneDrive\Documents\ArchiPelago Lab\Pikmin 3\worlds\pikmin3\client\cemu_memory.py", line 206, in read_u32
+    return struct.unpack(">I", self.read(address, 4))[0]
+                               ~~~~~~~~~^^^^^^^^^^^^
+  File "C:\Users\2dcra\OneDrive\Documents\ArchiPelago Lab\Pikmin 3\worlds\pikmin3\client\cemu_memory.py", line 190, in read
+    raise MemoryError_(f"Lecture impossible à 0x{address:08X}")
+p3ap.client.cemu_memory.MemoryError_: Lecture impossible à 0x103E4488

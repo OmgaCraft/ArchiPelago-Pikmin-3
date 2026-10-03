@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 000500001012BE00
+name = "Archipelago"
+path = "Pikmin 3/Mods/Archipelago"
+description = "Requis pour jouer a Pikmin 3 avec Archipelago (EUR v1). Boite aux lettres pour le client, fruits sans jus en partie Archipelago, limite de Pikmin progressive. Sans client connecte, le jeu reste normal."
+version = 7

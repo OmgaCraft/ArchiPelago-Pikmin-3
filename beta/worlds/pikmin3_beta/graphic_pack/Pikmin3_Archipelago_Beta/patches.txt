@@ -1,0 +1,83 @@
+# Graphic pack Archipelago BETA pour Pikmin 3 EUR v1 (module "carrot", somme 0x838BE11A).
+# Memes patches que le pack Archipelago (version finale) : ne jamais activer les deux ensemble.
+# Analyse et preuves : docs/phase0/findings.md du projet.
+# Fichier volontairement en ASCII pour l'analyseur de Cemu.
+#
+# Boite aux lettres (code cave, adresse 0x01800000 d'apres le log de Cemu) :
+#   +0x00  "P3AP"   signature
+#   +0x04  "BETA"   signature (le pack final utilise "MBOX")
+#   +0x08  version du protocole (2)
+#   +0x0C  drapeaux ecrits par le client : bit 0 = supprimer le jus des fruits presses
+#   +0x10  limite de Pikmin sur le terrain ecrite par le client (100 par defaut)
+# Sans client, drapeaux = 0 et limite = 100 : le jeu se comporte normalement.
+
+[Pikmin3_Archipelago_Beta_EUR_v1]
+moduleMatches = 0x838BE11A
+
+CodeCaveSize = 0xA0
+
+_apMailbox = 0x00000000
+0x00000000 = .int 1345536336   # 0x50334150 = "P3AP"
+0x00000004 = .int 1111839809   # 0x42455441 = "BETA"
+0x00000008 = .int 2            # version du protocole
+_apFlags = 0x0000000C
+0x0000000C = .int 0            # bit 0 : pas de jus pour les fruits presses
+_apPikminLimit = 0x00000010
+0x00000010 = .int 100          # limite de Pikmin (terrain + pousses)
+0x00000014 = .int 0
+0x00000018 = .int 0
+0x0000001C = .int 0
+0x00000020 = .int 0
+0x00000024 = .int 0
+0x00000028 = .int 0
+0x0000002C = .int 0
+0x00000030 = .int 0
+0x00000034 = .int 0
+0x00000038 = .int 0
+0x0000003C = .int 0
+
+# --- Pressage des fruits : porte devant addJuice (GameData::addJuice = 0x03012ADC) ---
+# Remplace les "bl 0x03012ADC" du pressoir. Si le drapeau est leve, on revient sans ajouter de jus ;
+# sinon on saute vers la fonction d'origine (qui revient directement a l'appelant).
+_apAddJuiceGate = 0x00000040
+0x00000040 = lis r12, _apFlags@ha
+0x00000044 = lwz r12, _apFlags@l(r12)
+0x00000048 = andi. r12, r12, 1
+0x0000004C = beq _apAddJuiceCall
+0x00000050 = blr
+_apAddJuiceCall = 0x00000054
+0x00000054 = b 0x03012ADC
+
+# --- Pressage des fruits : porte devant setJuice (GameData::setJuice = 0x03012AFC) ---
+# Utilise pour l'arrondi du jus a l'entier inferieur avant le pressage.
+_apSetJuiceGate = 0x00000060
+0x00000060 = lis r12, _apFlags@ha
+0x00000064 = lwz r12, _apFlags@l(r12)
+0x00000068 = andi. r12, r12, 1
+0x0000006C = beq _apSetJuiceCall
+0x00000070 = blr
+_apSetJuiceCall = 0x00000074
+0x00000074 = b 0x03012AFC
+
+# --- Limite de Pikmin : comparaison avec la valeur de la boite aux lettres ---
+# Remplace "cmpwi r3, 100" : le resultat reste dans cr0 pour le branchement qui suit.
+_apLimitCompare = 0x00000080
+0x00000080 = lis r12, _apPikminLimit@ha
+0x00000084 = lwz r12, _apPikminLimit@l(r12)
+0x00000088 = cmpw r3, r12
+0x0000008C = blr
+
+# --- Limite de Pikmin : places disponibles (menu de l'Oignon) ---
+# Remplace "li r30, 100" : r30 = limite de la boite aux lettres (r30 = limite - terrain - pousses ensuite).
+_apLimitLoadR30 = 0x00000090
+0x00000090 = lis r30, _apPikminLimit@ha
+0x00000094 = lwz r30, _apPikminLimit@l(r30)
+0x00000098 = blr
+
+# --- Points de patch dans le code du jeu ---
+0x02C55A78 = bla _apAddJuiceGate   # pressoir : +1 bouteille (0x02C55A4C)
+0x02C55868 = bla _apAddJuiceGate   # pressoir : reste fractionnaire (0x02C5583C)
+0x02C568FC = bla _apSetJuiceGate   # pressoir : arrondi du jus (0x02C5679C)
+0x027953A4 = bla _apLimitCompare   # "terrain plein ?" (0x02795378), hors Bingo
+0x02853BE8 = bla _apLimitCompare   # variante "terrain seul" (0x02853BA8)
+0x02CD19A0 = bla _apLimitLoadR30   # places disponibles, hors mode a 50 (fonction 0x02CD0B50)

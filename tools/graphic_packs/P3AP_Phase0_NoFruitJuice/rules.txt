@@ -1,0 +1,6 @@
+[Definition]
+titleIds = 000500001012BE00
+name = "Archipelago - test : fruits sans jus"
+path = "Pikmin 3/Mods/Archipelago Phase 0 NoFruitJuice"
+description = "Test de la Phase 0 : le pressage des fruits ne donne plus de jus (la consommation de la nuit reste active). A desactiver apres le test."
+version = 7
