@@ -25,6 +25,10 @@ Un chat ne modifie pas les dossiers de l'autre. S'il a besoin d'un changement ch
   (jeux différents : « Pikmin 3 » et « Pikmin 3 Beta »). Ne jamais déposer de YAML dans `Players` (YAML d'autres joueurs).
 - **Mémoire de Claude** (dossier commun aux deux chats) : chacun garde son fichier d'avancement
   (`phase0-progress.md` = FINAL, `beta-progress.md` = BÊTA).
+- **Dépôt GitHub** (depuis le 2026-10-03) : le dossier du projet est un dépôt git (branche `main`) relié à
+  <https://github.com/OmgaCraft/ArchiPelago-Pikmin-3>. Le `.gitignore` exclut `backups/`, `tools/.probe_state/`, les
+  copies de mémoire `*.bin` et les caches Python : **ne jamais publier de sauvegarde ni de copie de la mémoire du jeu**.
+  Publier (commit + push) seulement quand l'utilisateur le demande, et chacun ses propres dossiers.
 
 ## Décisions de l'utilisateur
 
@@ -383,6 +387,11 @@ ou annoter chaque point une fois traité, avec la date.
 - **2026-10-03 (soir)** — Exigences de l'utilisateur notées (« Décisions de l'utilisateur » + section F de « Reste à
   faire », points 16–18) : pas d'ouverture de zone par l'histoire, pas d'Oignons hors rouge, correspondance complète
   des bits des fruits et des notes. Recherche confiée à la BÊTA ; le FINAL intégrera. Aucun changement de code.
+- **2026-10-03 (soir)** — **Projet publié sur GitHub** à la demande de l'utilisateur :
+  <https://github.com/OmgaCraft/ArchiPelago-Pikmin-3> (branche `main`, commit `7a46569`, 103 fichiers ≈ 870 Ko :
+  version finale, bêta, outils, docs, kits `dist/`, `COORDINATION.md`). Ajoutés : `.gitignore` (exclut `backups/`,
+  `tools/.probe_state/`, `*.bin`, caches Python) et `README.md` (présentation du dépôt). Auteur git : celui configuré
+  sur le PC de l'utilisateur.
 
 ## Journal BÊTA
 
